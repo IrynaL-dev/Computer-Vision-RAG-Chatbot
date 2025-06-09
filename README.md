@@ -1,4 +1,6 @@
 # Computer Vision RAG Chatbot
+![Chroma_Generated_01032_](https://github.com/user-attachments/assets/c90db5ad-596c-43e2-b05c-4311c2fa2b84)
+
 
 An intelligent **chatbot** powered by **Retrieval-Augmented Generation (RAG)** that answers questions about **Computer Vision** using custom `.txt` documents, semantic search, and an LLM hosted via **ChatGroq (LLaMA3-8B-8192)**.
 
